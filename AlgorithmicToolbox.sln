@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part2", "Part2", "{0791ED11-9EFD-47A3-9B70-EB28820F6545}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part2 Week1", "Part2 Week1", "{0791ED11-9EFD-47A3-9B70-EB28820F6545}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBracketsInTheCode", "CheckBracketsInTheCode\CheckBracketsInTheCode.csproj", "{30193D20-345C-4D70-AF88-3B5C8A09ED03}"
 EndProject
@@ -14,6 +14,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendingStackInterface", "ExtendingStackInterface\ExtendingStackInterface.csproj", "{F81236D7-B3B7-4169-8351-CF58CBF2D3AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumInSlidingWindow", "MaximumInSlidingWindow\MaximumInSlidingWindow.csproj", "{728E802C-43FA-4B71-A942-4447170F3D08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part2 Week2", "Part2 Week2", "{5090CF99-40EB-4C73-8E9A-0F77C385B43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertArrayIntoHeap", "MakeHeap\ConvertArrayIntoHeap.csproj", "{471E54AF-47FB-45B9-81BE-D5A247E2F749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProcessing", "ParallelProcessing\ParallelProcessing.csproj", "{F15E580B-C912-4146-9F37-13EDA4B0297D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingTables", "MergingTables\MergingTables.csproj", "{DA9CEBD9-03B6-4909-971A-B51A1A50D1B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +49,18 @@ Global
 		{728E802C-43FA-4B71-A942-4447170F3D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{728E802C-43FA-4B71-A942-4447170F3D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{728E802C-43FA-4B71-A942-4447170F3D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471E54AF-47FB-45B9-81BE-D5A247E2F749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471E54AF-47FB-45B9-81BE-D5A247E2F749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471E54AF-47FB-45B9-81BE-D5A247E2F749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471E54AF-47FB-45B9-81BE-D5A247E2F749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15E580B-C912-4146-9F37-13EDA4B0297D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15E580B-C912-4146-9F37-13EDA4B0297D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15E580B-C912-4146-9F37-13EDA4B0297D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15E580B-C912-4146-9F37-13EDA4B0297D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9CEBD9-03B6-4909-971A-B51A1A50D1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9CEBD9-03B6-4909-971A-B51A1A50D1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9CEBD9-03B6-4909-971A-B51A1A50D1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9CEBD9-03B6-4909-971A-B51A1A50D1B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +71,9 @@ Global
 		{666CE220-74BF-4AA1-8DBF-559125850F74} = {0791ED11-9EFD-47A3-9B70-EB28820F6545}
 		{F81236D7-B3B7-4169-8351-CF58CBF2D3AA} = {0791ED11-9EFD-47A3-9B70-EB28820F6545}
 		{728E802C-43FA-4B71-A942-4447170F3D08} = {0791ED11-9EFD-47A3-9B70-EB28820F6545}
+		{471E54AF-47FB-45B9-81BE-D5A247E2F749} = {5090CF99-40EB-4C73-8E9A-0F77C385B43B}
+		{F15E580B-C912-4146-9F37-13EDA4B0297D} = {5090CF99-40EB-4C73-8E9A-0F77C385B43B}
+		{DA9CEBD9-03B6-4909-971A-B51A1A50D1B4} = {5090CF99-40EB-4C73-8E9A-0F77C385B43B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98C72D6E-1B3E-4FBF-80B0-0483F2B507CA}
