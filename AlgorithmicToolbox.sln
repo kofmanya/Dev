@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\Phon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingWithChains", "HashingWithChains\HashingWithChains.csproj", "{63462C2F-39E9-4EB1-A46B-E19941DDBC1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPatternInText", "FindPatternInText\FindPatternInText.csproj", "{D5F583F8-4F85-46AE-8C39-49944BE4C2D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstringEquality", "SubstringEquality\SubstringEquality.csproj", "{A824A256-EA6D-4935-A5B9-4D47AB362EC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{63462C2F-39E9-4EB1-A46B-E19941DDBC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63462C2F-39E9-4EB1-A46B-E19941DDBC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63462C2F-39E9-4EB1-A46B-E19941DDBC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F583F8-4F85-46AE-8C39-49944BE4C2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F583F8-4F85-46AE-8C39-49944BE4C2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F583F8-4F85-46AE-8C39-49944BE4C2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F583F8-4F85-46AE-8C39-49944BE4C2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A824A256-EA6D-4935-A5B9-4D47AB362EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A824A256-EA6D-4935-A5B9-4D47AB362EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A824A256-EA6D-4935-A5B9-4D47AB362EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A824A256-EA6D-4935-A5B9-4D47AB362EC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +102,8 @@ Global
 		{DA9CEBD9-03B6-4909-971A-B51A1A50D1B4} = {5090CF99-40EB-4C73-8E9A-0F77C385B43B}
 		{BBCCCD7B-9C6E-4A39-90EA-E6F7645463AF} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
 		{63462C2F-39E9-4EB1-A46B-E19941DDBC1E} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
+		{D5F583F8-4F85-46AE-8C39-49944BE4C2D3} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
+		{A824A256-EA6D-4935-A5B9-4D47AB362EC9} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98C72D6E-1B3E-4FBF-80B0-0483F2B507CA}
