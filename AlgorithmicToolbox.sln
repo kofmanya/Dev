@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPatternInText", "FindPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstringEquality", "SubstringEquality\SubstringEquality.csproj", "{A824A256-EA6D-4935-A5B9-4D47AB362EC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubstring", "LongestCommonSubstring\LongestCommonSubstring.csproj", "{C37D33E0-EBB2-48BA-B780-EF79C9C6FF23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatchingWithMismatches", "PatternMatchingWithMismatches\PatternMatchingWithMismatches.csproj", "{E7838F00-EE2B-44DB-9062-40D8E8F52F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{A824A256-EA6D-4935-A5B9-4D47AB362EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A824A256-EA6D-4935-A5B9-4D47AB362EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A824A256-EA6D-4935-A5B9-4D47AB362EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37D33E0-EBB2-48BA-B780-EF79C9C6FF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37D33E0-EBB2-48BA-B780-EF79C9C6FF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37D33E0-EBB2-48BA-B780-EF79C9C6FF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37D33E0-EBB2-48BA-B780-EF79C9C6FF23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7838F00-EE2B-44DB-9062-40D8E8F52F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7838F00-EE2B-44DB-9062-40D8E8F52F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7838F00-EE2B-44DB-9062-40D8E8F52F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7838F00-EE2B-44DB-9062-40D8E8F52F69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +116,8 @@ Global
 		{63462C2F-39E9-4EB1-A46B-E19941DDBC1E} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
 		{D5F583F8-4F85-46AE-8C39-49944BE4C2D3} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
 		{A824A256-EA6D-4935-A5B9-4D47AB362EC9} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
+		{C37D33E0-EBB2-48BA-B780-EF79C9C6FF23} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
+		{E7838F00-EE2B-44DB-9062-40D8E8F52F69} = {D1DCCF78-77CB-4891-9275-141EDCD4A19B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98C72D6E-1B3E-4FBF-80B0-0483F2B507CA}
